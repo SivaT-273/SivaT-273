@@ -16,11 +16,6 @@
 
 
 
-### 🌐 Connect With Me
-- 💼 LinkedIn: [https://www.linkedin.com/in/siva-t-199572250/]
-- 📧 Email: sivakumar020703@gmail.com
-
-
 
 
 
