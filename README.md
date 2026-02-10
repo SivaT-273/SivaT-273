@@ -13,10 +13,8 @@
 ![Skills](https://skillicons.dev/icons?i=java,mysql,git,github)
 
 
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karma)
-
+### 🌐 Profiles
+- 💻 LeetCode: [https://leetcode.com/u/Siva020703/]
 
 
 
