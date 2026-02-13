@@ -3,7 +3,6 @@
 🎓 Electronics and Communication Engineering Graduate  
 💻 Java & SQL  
 🚀 Learning Backend Development  
-🌱 Consistency > Motivation
 
 
 
